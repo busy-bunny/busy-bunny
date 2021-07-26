@@ -1,5 +1,5 @@
-[...]<\br>
-<\br>
+[...]<br>
+<br>
 Run, rabbit run<\br>
 Dig that hole, forget the sun<\br>
 And when at last the work is done<\br>
